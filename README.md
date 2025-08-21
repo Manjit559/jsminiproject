@@ -24,7 +24,6 @@ Perfect for beginners 👨‍💻👩‍💻 to practice and learn web developme
 ---
 
 ## 🚀 Getting Started  
-
 1. **Clone the repository** 🧑‍💻  
    ```bash
    git clone https://github.com/Manjit559/jsminiproject.git
@@ -32,6 +31,7 @@ Perfect for beginners 👨‍💻👩‍💻 to practice and learn web developme
 
 Run the project ▶️
 📂 Open index.html in your browser 🌍
+
 
 
 Project Structure
